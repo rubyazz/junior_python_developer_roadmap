@@ -2,7 +2,7 @@
 ### 🔥 [Telegram](https://t.me/python2day)
 ---
 
-# 🌐 Python разработчик. Путь с нуля к ЗП от 1500$ за полгода
+# 🌐 Python разработчик. Путь самурая
 ---
 
 # Python
