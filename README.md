@@ -1,9 +1,6 @@
-### 🎥 [PYTHON:TODAY](https://www.youtube.com/c/PythonToday/videos)
-### 🔥 [Telegram](https://t.me/python2day)
----
 
-# 🌐 Python разработчик. Путь самурая
----
+# Python разработчик. Путь самурая
+
 
 # Python
 ## 1.1 Основы
